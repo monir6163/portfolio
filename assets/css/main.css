@@ -1,0 +1,44 @@
+/*-----------------------------------------------------------------------------------
+
+    Template Name: Template Name - Blog, News & Magazine HTML5 Template
+    Description: Template Name - Blog, News & Magazine HTML5 Template
+    Author: Ratul Hossain
+    Version: 1.0
+
+-----------------------------------------------------------------------------------
+
+    CSS INDEX
+    ====================
+
+    1.
+	2.
+    3.
+
+-----------------------------------------------------------------------------------*/
+body {
+    position: relative;
+}
+.max-height {
+    min-height: 100vh;
+    background: url("../img/banner.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #fff;
+}
+.custom-link {
+    color: #FE272E;
+}
+ul.text-center li::first-letter {
+    color: #FE272E;
+    font-size: 1.2rem;
+}
+.bg-custom {
+    padding: 20px;
+    background: url("../img/desert.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
